@@ -154,6 +154,6 @@ Electronics & R&D	Computer Technology	Exploring New Tools
 ---
 <div align="center">
 "Every circuit tells a story — I make sure it's the right one."
-![Profile Views](https://komarev.com/ghpvc/?username=nandakumarkdpm&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=nandurpm&color=70a5fd&style=flat-square&label=Profile+Views)
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
