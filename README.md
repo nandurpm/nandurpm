@@ -147,20 +147,6 @@ I'm an **Electrical Design & Development Engineer** at **Johnson Lifts & Escalat
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🗂️ Project | 🛠️ Tech Stack | ✨ Highlights |
-|:---|:---|:---|
-| **BOM Validator Web App** | HTML5, JavaScript, SheetJS, jsPDF | Single-file escalator BOM validation; auto-detects EG01–EG29; Excel/PDF export; Admin controls |
-| **Escalator Electrical Schematics** | AutoCAD Electrical, MS Office | Full schematic suite for control panels & wiring at Johnson Escalators |
-| **AIR FM Training Project** | Electronics, RF Systems, Broadcasting | Communication systems & broadcasting equipment training at All India Radio Manjeri |
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
