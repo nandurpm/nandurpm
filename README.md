@@ -1,203 +1,751 @@
+<!-- ========================================================= -->
+<!--                 GITHUB PROFILE README v3.0                -->
+<!--                  Part 1 - Hero & Overview                 -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Nandakumar+M;Electrical+Design+%26+Development+Engineer;Escalator+%26+Elevator+Systems+Specialist)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Nandakumar%20M&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Electrical%20Design%20%7C%20Development%20Engineer&descAlignY=60&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Electrical+Design+%26+Development+Engineer;Escalator+%26+Elevator+Electrical+Systems;Engineering+Documentation+%7C+Automation;Creator+of+POLY+PMNA+%26+Ask+Poly+AI)](https://git.io/typing-svg)
+
+<p>
+
+<a href="mailto:nandakumarkdpm@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nandurpm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=nandurpm&style=for-the-badge&color=0e75b6"/>
+
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hello, I'm Nandakumar M
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+### Electrical Design & Development Engineer
 
-🔭 **Currently working at** Johnson Lifts & Escalators as Electrical Design & Development Engineer
+I am an **Electrical Design & Development Engineer** specializing in **escalator electrical systems**, engineering documentation, electrical schematics, wiring diagrams, and control circuits.
 
-🎓 **Education:** Diploma in Electronics Engineering — Govt. Polytechnic College, Perinthalmanna
+Currently working at **Johnson Lifts & Escalators**, I focus on developing reliable electrical designs, maintaining engineering standards, supporting production teams, and improving documentation quality.
 
-📍 **Location:** Malappuram, Kerala, India
+Beyond my professional work, I enjoy building engineering tools and educational platforms that simplify technical learning and workflow automation.
 
-📧 **Email:** nandakumarkdpm@gmail.com
+---
 
-🐙 **GitHub:** [github.com/nandurpm](https://github.com/nandurpm)
+# 🚀 Engineering Dashboard
 
-⚡ **Fun fact:** Scored 95% in SSLC & loves debugging circuits like code
+<div align="center">
 
-> *"Engineer by training. Problem-solver by nature."*
+| ⚡ Metric | Value |
+|-----------|------:|
+| Experience | 1+ Years |
+| Electrical Schematics | 500+ |
+| Technical Documents | 1000+ |
+| Engineering Revisions | 300+ |
+| Escalator Projects | 20+ |
+| Personal Software Projects | 15+ |
+| Diploma Lessons Developed | 100+ |
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+- 🛗 Escalator Electrical Design
+- 📐 Electrical Schematics
+- ⚡ Wiring Documentation
+- 🤖 AI for Engineering
+- 📚 POLY PMNA
+- 💻 Ask Poly AI
+- 📊 BOM Validator
+- 🐧 Linux & Open Source
+
+---
+
+# 🧠 Professional Summary
+
+```text
+Electrical Engineering
+███████████████████████████ 95%
+
+Electrical Documentation
+█████████████████████████ 92%
+
+Problem Solving
+████████████████████████ 90%
+
+Control Circuits
+███████████████████████ 88%
+
+HTML / CSS / JavaScript
+███████████████████ 80%
+
+Linux
+█████████████████ 75%
+
+Git & GitHub
+███████████████ 70%
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandurpm&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandurpm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandurpm&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nandurpm&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandurpm&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💡 Engineering Philosophy
+
+> **"Every electrical schematic represents a real system. Precision in design today prevents failures tomorrow."**
+
+---
+
+<!-- End of Part 1 -->
+
+<!-- ========================================================= -->
+<!--            PART 2 – SKILLS & PROFESSIONAL EXPERIENCE      -->
+<!-- ========================================================= -->
+
+# 🛠️ Engineering Skills & Technologies
+
+<div align="center">
+
+### ⚡ Electrical Engineering
+
+<img src="https://skillicons.dev/icons?i=arduino,git,github,html,css,js,linux,windows,vscode" />
+
+<br><br>
+
+| Engineering | Professional Skills |
+|-------------|---------------------|
+| ⚡ Electrical Schematic Design | 📐 Technical Documentation |
+| 🛗 Escalator Electrical Systems | 📋 Engineering Change Management |
+| 🔌 Control Circuits | 🔍 Root Cause Analysis |
+| ⚙️ Electrical Panels | 🧪 Testing & Validation |
+| 📄 Wiring Diagrams | 🤝 Cross Functional Collaboration |
+| 📦 BOM Preparation | 📚 Document Control |
+| 🔧 Troubleshooting | 🏭 Production Support |
+
+</div>
+
+---
+
+# ⚙️ Engineering Expertise
+
+<div align="center">
+
+| Expertise | Level |
+|-----------|:-----:|
+| Electrical Schematics | ⭐⭐⭐⭐⭐ |
+| Escalator Electrical Systems | ⭐⭐⭐⭐⭐ |
+| Wiring Documentation | ⭐⭐⭐⭐⭐ |
+| Control Circuits | ⭐⭐⭐⭐☆ |
+| Electrical Panel Design | ⭐⭐⭐⭐☆ |
+| Engineering Documentation | ⭐⭐⭐⭐⭐ |
+| Troubleshooting | ⭐⭐⭐⭐☆ |
+| Root Cause Analysis | ⭐⭐⭐⭐☆ |
+| BOM Management | ⭐⭐⭐⭐☆ |
+| Linux | ⭐⭐⭐⭐☆ |
+| HTML / CSS / JavaScript | ⭐⭐⭐⭐☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# 🌍 Languages
+
+<div align="center">
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇮🇳 Malayalam | Native |
+| 🇬🇧 English | Professional |
+| 🇮🇳 Tamil | Professional |
+| 🇮🇳 Hindi | Conversational |
+| 🕉 Sanskrit | Basic |
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+## 🛗 Johnson Lifts & Escalators
+
+### Electrical Design & Development Engineer
+**July 2025 – Present**
+
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### Responsibilities
+
+- 📐 Prepare and maintain **electrical schematics** for escalator systems.
+- 🔌 Design and update **wiring diagrams** and electrical documentation.
+- 📄 Maintain engineering drawings according to company standards.
+- ⚙️ Support electrical panel development and control system integration.
+- 🔄 Manage engineering revisions and document control.
+- 🤝 Coordinate with Production, Installation and Service teams.
+- 🧪 Support testing, validation and troubleshooting activities.
+- 🔍 Perform root cause analysis for electrical issues.
+- 📋 Ensure documentation complies with engineering standards.
+
+### Key Contributions
+
+✅ Improved documentation quality
+
+✅ Faster engineering revision handling
+
+✅ Enhanced drawing accuracy
+
+✅ Cross-functional engineering support
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## 🏭 Motherson Automotive Technologies & Engineering
 
-**⚡ Electrical & Engineering**
+### PDI Quality & Assembly Operator
 
-![Electrical Schematic Design](https://img.shields.io/badge/Electrical%20Schematic%20Design-0078D4?style=flat-square&logo=circuitverse&logoColor=white)
-![Escalator Systems](https://img.shields.io/badge/Escalator%20Electrical%20Systems-1E3A5F?style=flat-square&logo=siemens&logoColor=white)
-![Control Circuits](https://img.shields.io/badge/Control%20Circuits-FF6B35?style=flat-square&logo=arduino&logoColor=white)
-![Wiring Diagrams](https://img.shields.io/badge/Wiring%20Diagrams-2D9CDB?style=flat-square&logo=autodesk&logoColor=white)
-![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-4A90D9?style=flat-square&logo=readthedocs&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting%20%26%20Diagnostics-E74C3C?style=flat-square&logo=opsgenie&logoColor=white)
+**Walajabad, Tamil Nadu**
 
-**🖥️ Software & Tools**
+### Responsibilities
 
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**🎬 Creative & Media**
-
-![Video Editing](https://img.shields.io/badge/Video%20Editing-9B59B6?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![Photography](https://img.shields.io/badge/Photography-FF9900?style=flat-square&logo=unsplash&logoColor=white)
-
-**🌐 Languages Spoken**
-
-![Malayalam](https://img.shields.io/badge/Malayalam-Native-38BDAE?style=flat-square)
-![English](https://img.shields.io/badge/English-Proficient-70A5FD?style=flat-square)
-![Tamil](https://img.shields.io/badge/Tamil-Proficient-BF91F3?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Conversational-FF6B6B?style=flat-square)
-![Sanskrit](https://img.shields.io/badge/Sanskrit-Basic-F4A261?style=flat-square)
+- ✅ Automotive quality inspection
+- 🔍 Assembly verification
+- 📊 Production quality monitoring
+- ⚙️ Process improvement support
+- 📦 Defect identification
+- 🛠 Manufacturing quality compliance
 
 ---
 
-## 💼 Work Experience
+## ⚙️ Kyungshin Industrial Motherson Pvt. Ltd.
 
-<details>
-<summary>⚡ <strong>Johnson Lifts and Escalators</strong> — Electrical Design &amp; Development Engineer | July 2025 – Present | India</summary>
-<br>
+### CNC Machine Operator (DET)
 
-![Electrical Schematics](https://img.shields.io/badge/Electrical%20Schematics-0078D4?style=flat-square) ![Control Systems](https://img.shields.io/badge/Control%20Systems-1E3A5F?style=flat-square) ![Engineering Documentation](https://img.shields.io/badge/Engineering%20Documentation-2ECC71?style=flat-square) ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-E74C3C?style=flat-square)
+### Responsibilities
 
-- 📐 Preparation and maintenance of **electrical schematics and wiring diagrams** for escalator systems across multiple product lines
-- 📋 Development and revision of **engineering drawings and technical documentation** per design standards
-- 🔧 Support for **escalator control systems, electrical panels**, and field implementation activities
-- 🤝 Cross-functional coordination with **production, installation, and service teams** for design compliance
-- 🔄 Engineering **change management and documentation control** with accurate revision histories
-- 🔍 **Technical troubleshooting and root cause analysis** of electrical system faults
-
-</details>
-
-<details>
-<summary>🏭 <strong>Motherson Automotive Technologies and Engineering</strong> — PDI Quality &amp; Assembly Operator (Paint Booth) | Walajabad</summary>
-<br>
-
-![Quality Inspection](https://img.shields.io/badge/Quality%20Inspection-27AE60?style=flat-square) ![Assembly Verification](https://img.shields.io/badge/Assembly%20Verification-F39C12?style=flat-square) ![Process Improvement](https://img.shields.io/badge/Process%20Improvement-3498DB?style=flat-square)
-
-- ✅ Performed **quality inspections and assembly verification** at paint booth PDI stations
-- 📊 Ensured strict **compliance with production and quality standards** for automotive components
-- 🔧 Supported **manufacturing and process improvement activities** to reduce defect rates
-
-</details>
-
-<details>
-<summary>⚙️ <strong>Kyungshin Industrial Motherson Pvt. Ltd.</strong> — CNC Machine Operator – DET</summary>
-<br>
-
-![CNC Machinery](https://img.shields.io/badge/CNC%20Machinery-E74C3C?style=flat-square) ![Dimensional Inspection](https://img.shields.io/badge/Dimensional%20Inspection-8E44AD?style=flat-square) ![Automotive Manufacturing](https://img.shields.io/badge/Automotive%20Manufacturing-2C3E50?style=flat-square)
-
-- 🔩 Operated **CNC machinery** for precision automotive component manufacturing
-- 📏 Conducted **production monitoring and dimensional inspections**
-- 🛡️ Maintained **quality and safety standards** throughout production operations
-
-</details>
-
-<details>
-<summary>🎬 <strong>FirstRing Media</strong> — Video Editor | Vagamon, Kerala</summary>
-<br>
-
-![Video Production](https://img.shields.io/badge/Video%20Production-9B59B6?style=flat-square) ![Post-Production](https://img.shields.io/badge/Post--Production-1ABC9C?style=flat-square)
-
-- 🎞️ Edited and produced **digital media content** for publication and broadcast
-- 🎛️ Managed **video processing and post-production** activities end-to-end
-
-</details>
+- 🔩 CNC machine operation
+- 📏 Dimensional inspection
+- ⚙️ Production monitoring
+- 🛡 Safety compliance
+- 📦 Quality assurance
 
 ---
 
-## 🚀 Featured Projects
+## 🎬 FirstRing Media
+
+### Video Editor
+
+### Responsibilities
+
+- 🎞 Video editing
+- 🎨 Post-production
+- 📹 Digital content creation
+- 🎬 Motion graphics support
+
+---
+
+# 📈 Career Highlights
 
 <div align="center">
 
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|:---|:---|:---|
-| **BOM Validator Web App** | HTML5, JS, SheetJS, jsPDF | Single-file escalator BOM validation; auto-detects EG01–EG29; Excel/PDF export; admin controls |
-| **Escalator Electrical Schematics** | AutoCAD Electrical, MS Office | Full schematic suite for control panels & wiring at Johnson Escalators |
-| **AIR FM Training Project** | Electronics, RF Systems | Communication systems & broadcasting equipment training at All India Radio Manjeri |
+| Achievement | Status |
+|-------------|--------|
+| 🛗 Electrical Design Engineer | ✅ Current |
+| 📐 Engineering Documentation | ✅ Professional |
+| ⚡ Electrical Schematics | ✅ Professional |
+| 📚 Creator of POLY PMNA | ✅ Active |
+| 🤖 Creator of Ask Poly AI | ✅ Active |
+| 💻 BOM Validator Developer | ✅ Active |
+| 🐧 Linux Enthusiast | ✅ Active |
+| 🌐 Open Source Contributor | 🚀 Growing |
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 🎯 Core Strengths
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|:---:|:---|:---|
-| 🎓 | **Diploma in Electronics Engineering** | Govt. Polytechnic College, Perinthalmanna – BTEK Kerala |
-| 📡 | **Industrial Training – All India Radio FM** | Electronics, Communication Systems & Broadcasting, Manjeri |
-| 🏆 | **SSLC – 95%** | Govt. HSS Kadungapuram – State Board 2014 |
-| 📊 | **Plus Two – 79%** | Govt. HSS Kadungapuram – State Board 2016 |
-| ⚡ | **Electrical Design Engineer** | Johnson Lifts & Escalators – escalator electrical systems |
+🧠 Analytical Thinking • ⚡ Problem Solving • 📐 Attention to Detail • 📄 Documentation • 🤝 Teamwork • 🔄 Continuous Learning • 💡 Innovation • 🚀 Process Improvement
 
 </div>
 
 ---
 
-## 🎓 Education
+<!-- ========================================================= -->
+<!--                  PART 3 – FEATURED PROJECTS               -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Engineering & Software Projects
 
 <div align="center">
 
-| 📜 Qualification | 🏫 Institution | 📅 Year | 🎯 Score |
-|:---|:---|:---:|:---:|
+> **Building practical engineering tools, educational platforms, and automation solutions that solve real-world problems.**
+
+</div>
+
+---
+
+# 📚 POLY PMNA
+
+<img align="right" width="340" src="https://via.placeholder.com/340x200.png?text=POLY+PMNA+Screenshot">
+
+### 🎓 Kerala Polytechnic Digital Learning Platform
+
+An AI-powered educational platform developed to help Kerala Polytechnic students study smarter through structured lessons, revision materials, quizzes, engineering calculators and AI assistance.
+
+### ✨ Features
+
+- 📚 Revision 2026 Learning Portal
+- 📖 Complete Semester Notes
+- 🤖 Ask Poly AI Assistant
+- 📝 Daily Quiz Platform
+- 📥 Study Material Downloads
+- 📊 Engineering Calculators
+- 📱 Mobile Friendly Design
+- 🌐 Progressive Web Application
+
+### 🛠 Technologies
+
+HTML5 • CSS3 • JavaScript • GitHub Pages
+
+### Highlights
+
+✅ 100+ Engineering Lessons
+
+✅ AI Integration
+
+✅ Mobile Optimized
+
+✅ Offline Ready
+
+<br clear="right"/>
+
+---
+
+# 🤖 Ask Poly AI
+
+<img align="left" width="340" src="https://via.placeholder.com/340x200.png?text=Ask+Poly+AI">
+
+### AI Assistant for Diploma Students
+
+A custom AI assistant built specifically for Kerala Polytechnic students.
+
+It provides syllabus-aware responses, lesson guidance, engineering explanations, and educational support through a clean web interface.
+
+### Features
+
+- 💬 AI Chat Assistant
+- 📚 Subject Wise Knowledge
+- 🧮 Engineering Formula Support
+- 📖 Revision Help
+- 📱 Mobile Friendly
+- ⚡ Fast Interface
+
+### Future Roadmap
+
+- Offline Knowledge Base
+
+- Voice Assistant
+
+- Image Question Support
+
+- Smart Lesson Search
+
+<br clear="right"/>
+
+---
+
+# 📊 Escalator BOM Validator
+
+<img align="right" width="340" src="https://via.placeholder.com/340x200.png?text=BOM+Validator">
+
+### Engineering Validation Tool
+
+A web application developed to automate validation of escalator electrical BOMs and reduce manual verification effort.
+
+### Features
+
+- 📄 Excel Import
+- 📊 Automatic BOM Validation
+- 🔍 EG01–EG29 Detection
+- 📑 PDF Report Export
+- 📈 Excel Export
+- 🔐 Admin Controls
+- ⚡ Fast Processing
+
+### Benefits
+
+✔ Reduced manual work
+
+✔ Faster validation
+
+✔ Improved accuracy
+
+✔ Better documentation
+
+<br clear="right"/>
+
+---
+
+# 🛗 Escalator Electrical Schematics
+
+<img align="left" width="340" src="https://via.placeholder.com/340x200.png?text=Electrical+Schematics">
+
+### Industrial Engineering Documentation
+
+Preparation and maintenance of professional electrical schematics used in escalator manufacturing.
+
+### Areas
+
+- ⚡ Power Circuits
+- 🔌 Control Circuits
+- 📐 Wiring Diagrams
+- 📄 Engineering Drawings
+- 📦 BOM Documentation
+- 🔄 Engineering Revisions
+
+### Engineering Focus
+
+- Design Accuracy
+
+- Standards Compliance
+
+- Documentation Quality
+
+- Production Support
+
+<br clear="right"/>
+
+---
+
+# 📡 AIR FM Industrial Training
+
+<img align="right" width="340" src="https://via.placeholder.com/340x200.png?text=AIR+FM">
+
+### Communication Systems Training
+
+Industrial training completed at **All India Radio FM, Manjeri**.
+
+### Topics Covered
+
+- 📻 FM Broadcasting
+- 📡 RF Communication
+- 📶 Antenna Systems
+- ⚡ Transmitters
+- 🎙 Audio Processing
+- 🔧 Preventive Maintenance
+
+<br clear="right"/>
+
+---
+
+# 🧰 Engineering Toolkit
+
+<div align="center">
+
+| Tool | Purpose |
+|------|---------|
+| 📊 BOM Validator | Electrical BOM Verification |
+| 📚 POLY PMNA | Diploma Learning Platform |
+| 🤖 Ask Poly AI | AI Educational Assistant |
+| 📄 Engineering Documentation | Technical Drawings |
+| 📐 Electrical Schematics | Escalator Systems |
+| 📥 PDF Generator | Documentation Export |
+
+</div>
+
+---
+
+# 📈 Project Statistics
+
+<div align="center">
+
+| 📊 Metric | Value |
+|-----------|------:|
+| Projects Completed | 15+ |
+| Engineering Tools | 5+ |
+| Educational Platform | 1 |
+| AI Applications | 2 |
+| Technical Documents | 1000+ |
+| Electrical Schematics | 500+ |
+| Engineering Lessons | 100+ |
+| GitHub Repositories | Growing 🚀 |
+
+</div>
+
+---
+
+# 💡 Currently Building
+
+- 🤖 Ask Poly AI
+- 📚 POLY PMNA Revision 2026
+- 📊 BOM Validator v2
+- ⚡ Engineering Automation Tools
+- 📐 Electrical Documentation Utilities
+- 🐧 Linux Productivity Tools
+
+---
+
+<div align="center">
+
+### ⚙️ *"Engineering is not only about designing systems—it's about creating solutions that are reliable, maintainable, and efficient."*
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                PART 4 – EDUCATION • TIMELINE             -->
+<!-- ========================================================= -->
+
+# 🎓 Education
+
+<div align="center">
+
+| 🎓 Qualification | 🏫 Institution | 📅 Year | 📊 Result |
+|:-----------------|:---------------|:-------:|:---------:|
 | Diploma in Electronics Engineering | Govt. Polytechnic College, Perinthalmanna | — | Pass |
-| Higher Secondary (Plus Two) | Govt. HSS Kadungapuram, Malappuram | 2016 | 79% |
-| SSLC | Govt. HSS Kadungapuram, Malappuram | 2014 | 95% |
+| Higher Secondary (Plus Two) | Govt. HSS Kadungapuram | 2016 | 79% |
+| SSLC | Govt. HSS Kadungapuram | 2014 | **95%** |
 
 </div>
 
 ---
 
-## 📚 Currently Learning
-
-- 🏭 **Industrial Automation** — PLC Programming, SCADA, Control Logic
-- 🔌 **Embedded Systems** — Microcontrollers, Sensor Integration, IoT
-- 🤖 **AI in Engineering** — Predictive Maintenance, Fault Detection
-- 🐧 **Linux & Open-Source** — Shell Scripting, System Tools, Dev Environment
-- 📐 **Electrical CAD Tools** — Advanced Schematic & PCB Design
-- 🔭 **Escalator Technology** — Modern Drive Systems, Safety Circuits, EN115
-
----
-
-## 🌐 Connect With Me
+# 🏆 Achievements
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nandakumarkdpm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandakumarkdpm@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Malappuram%2C%20Kerala-38BDAE?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Malappuram,Kerala,India)
-[![GitHub](https://img.shields.io/badge/GitHub-nandurpm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandurpm)
+🥇 95% in SSLC
+
+📡 Industrial Training at All India Radio FM
+
+🛗 Electrical Design & Development Engineer
+
+📚 Creator of POLY PMNA
+
+🤖 Creator of Ask Poly AI
+
+📊 Developer of BOM Validator
+
+🐧 Linux Enthusiast
+
+💻 Open Source Learner
 
 </div>
 
 ---
 
-## 💡 Strengths
+# 📚 Currently Learning
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### ⚡ Engineering
+
+- PLC Programming
+- Industrial Automation
+- SCADA
+- Control Systems
+- EN115 Standards
+- Electrical Safety
+
+</td>
+
+<td width="50%">
+
+### 💻 Software
+
+- JavaScript
+- Linux
+- GitHub Actions
+- AI Integration
+- Web Performance
+- UI/UX
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛣 Career Timeline
+
+```text
+2014
+🏆 SSLC (95%)
+
+        │
+
+2016
+🎓 Higher Secondary
+
+        │
+
+Diploma
+Electronics Engineering
+
+        │
+
+⚙ Kyungshin Industrial
+CNC Operator
+
+        │
+
+🏭 Motherson
+Quality & Assembly
+
+        │
+
+🛗 Johnson Lifts & Escalators
+Electrical Design &
+Development Engineer
+
+        │
+
+🚀 Today
+Engineering + AI + Automation
+```
+
+---
+
+# 📈 GitHub Contribution Graph
 
 <div align="center">
 
-`🧠 Analytical Skills` &nbsp;`🔍 Attention to Detail` &nbsp;`⚡ Quick Learner` &nbsp;`🤝 Team Player` &nbsp;`🛠️ Problem Solver` &nbsp;`📝 Documentation` &nbsp;`🔄 Adaptability`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nandurpm&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+
+> **Create this using GitHub Actions.**
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: Platane/snk@master
+
+        with:
+
+          github_user_name: nandurpm
+
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+```
+
+After configuring the GitHub Action:
+
+```markdown
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nandurpm/nandurpm/output/github-contribution-grid-snake.svg">
+
+</p>
+```
+
+---
+
+# 🌐 Connect With Me
+
 <div align="center">
 
-*"Every circuit tells a story — I make sure it's the right one."*
+<a href="mailto:nandakumarkdpm@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nandurpm&color=70a5fd&style=flat-square&label=Profile+Views)
+<a href="https://github.com/nandurpm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Engineering Philosophy
+
+<div align="center">
+
+> **"Every electrical schematic represents a real machine. Precision in design creates reliability in operation."**
+
+</div>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+Happy Engineering!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
