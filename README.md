@@ -738,6 +738,27 @@ After configuring the GitHub Action:
 
 ---
 
+# Repository Scope and Maintainer Notes
+
+This repository is the **GitHub profile README** for `nandurpm`. It is a presentation layer for Nandakumar M’s engineering background, professional experience, skills, featured projects, and public contact links. It is not the implementation repository for the projects described above.
+
+| Concern | Where to look | Why it exists |
+| --- | --- | --- |
+| Profile presentation | `README.md` | GitHub renders this file as the public profile overview. |
+| Portfolio website | [`nandurpm/portfolio`](https://github.com/nandurpm/portfolio) | Hosts the public engineering portfolio and its publishing workflow. |
+| Diploma learning platform | [`nandurpm/diploma-notes`](https://github.com/nandurpm/diploma-notes) | Contains the POLY PMNA learning platform and study materials. |
+| Escalator analysis tool | [`nandurpm/escalator-insight-tool`](https://github.com/nandurpm/escalator-insight-tool) | Contains the dedicated escalator-insight project implementation. |
+
+## Updating This Repository
+
+Edit `README.md` when the public profile, professional experience, featured projects, skills, learning focus, or contact links change. Keep project descriptions aligned with the corresponding implementation repositories, and avoid placing credentials, private work information, or generated secrets in this file. External badges and animated images are presentation assets; if one becomes unavailable, replace or remove it without changing the project repositories.
+
+## Repository Boundary
+
+Because this repository contains only one profile document and no application source, package manifest, build configuration, tests, or deployment workflow, there is no local development or test command. Developers should make implementation changes in the linked project repository, then update the relevant profile section here if the project’s public description changes.
+
+---
+
 # ❤️ Thanks for Visiting
 
 <div align="center">
