@@ -112,6 +112,7 @@ I value accuracy, maintainability, traceable decisions, clear documentation, con
 
 This repository contains the public GitHub profile README. The implementation repositories are maintained separately:
 
+- [Profile artwork and asset responsibility](assets/README.md)
 - [Portfolio website](https://github.com/nandurpm/portfolio)
 - [POLY PMNA / Diploma Notes](https://github.com/nandurpm/diploma-notes)
 - [POLY PMNA PDF archive](https://github.com/nandurpm/poly-pmna-pdf-files)
