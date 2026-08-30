@@ -1,0 +1,14 @@
+# Environment and credential-bearing files
+.env*
+!.env.example
+*.pem
+*.key
+
+# Editor, operating-system, and temporary files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.log
