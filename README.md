@@ -110,10 +110,27 @@ I value accuracy, maintainability, traceable decisions, clear documentation, con
 
 ---
 
-This repository contains the public GitHub profile README. The implementation repositories are maintained separately:
+## Repository maintenance
+
+This is the special `nandurpm/nandurpm` profile repository: GitHub renders this root `README.md` on the `nandurpm` account page. It contains profile content and presentation assets only; implementation code is maintained in separate repositories.
+
+### Structure
+
+| Path | Responsibility |
+| --- | --- |
+| `README.md` | Public profile content rendered by GitHub |
+| `assets/` | Versioned visual assets referenced by the profile README |
+| `.gitignore` | Local secret, editor, operating-system, and temporary-file exclusions |
+
+### Related implementation repositories
 
 - [Portfolio website](https://github.com/nandurpm/portfolio)
 - [POLY PMNA / Diploma Notes](https://github.com/nandurpm/diploma-notes)
 - [POLY PMNA PDF archive](https://github.com/nandurpm/poly-pmna-pdf-files)
 
-Project descriptions should remain aligned with their implementation repositories. No credentials, private work information, access tokens, or generated secrets should be committed here.
+### Update rules
+
+- Keep project descriptions and links aligned with their implementation repositories.
+- Update time-sensitive employment, education, focus, and metric statements when their source facts change.
+- Preview the README on GitHub after changing HTML alignment, tables, links, or the hero asset.
+- Do not commit credentials, private work information, access tokens, customer data, or generated secrets.

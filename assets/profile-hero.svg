@@ -1,3 +1,7 @@
+<!--
+FILE: profile-hero.svg
+FILE PURPOSE: Accessible engineering-themed banner displayed at the top of the public GitHub profile README.
+-->
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Nandakumar M — Electrical Design and Development Engineer</title>
   <desc id="desc">A dark blue engineering-themed profile banner with a circuit-grid pattern and the text Nandakumar M.</desc>
