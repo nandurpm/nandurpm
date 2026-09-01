@@ -2,135 +2,123 @@
 
 <img src="./assets/profile-hero.svg" alt="Nandakumar M — Electrical Design and Development Engineer" width="100%">
 
-[Portfolio](https://nandakumarm.dpdns.org) · [GitHub](https://github.com/nandurpm) · [Email](mailto:nandakumarkdpm@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nandakumarm.dpdns.org)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandakumarkdpm@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandurpm)
+
+### Electrical engineering meets practical software
+
+I design dependable electrical systems, build clear engineering documentation, and create software that turns complex technical work into useful tools.
 
 </div>
 
-## About me
+---
 
-I am an **Electrical Design & Development Engineer** working with escalator electrical systems, engineering documentation, schematics, wiring diagrams, control circuits, BOMs, and engineering revisions. My work focuses on accurate design, maintainable documentation, production support, and clear technical communication.
+## 👋 About me
 
-Alongside my engineering work, I build educational platforms and practical automation tools that make technical learning and repetitive workflows easier.
+I'm **Nandakumar M**, an Electrical Design & Development Engineer at **Johnson Lifts & Escalators** in Kerala, India.
 
-## What I work on
+My professional work is centred on escalator electrical systems, control circuits, schematics, wiring diagrams, BOMs, engineering revisions, testing, troubleshooting, and production support. Beyond core engineering, I build desktop tools, web applications, learning platforms, and automation workflows for real-world problems.
 
-| Area | Practical focus |
+<table>
+<tr>
+<td width="25%" align="center"><strong>500+</strong><br>Electrical drawings handled</td>
+<td width="25%" align="center"><strong>1,000+</strong><br>Technical documents</td>
+<td width="25%" align="center"><strong>300+</strong><br>Engineering revisions</td>
+<td width="25%" align="center"><strong>100+</strong><br>Learning resources</td>
+</tr>
+</table>
+
+## ⚙️ What I work on
+
+| Electrical engineering | Software & automation |
 | --- | --- |
-| Electrical design | Escalator electrical systems, control circuits, panels, wiring, and schematics |
-| Engineering documentation | Drawings, BOMs, revisions, document control, and production support |
-| Software and automation | HTML, CSS, JavaScript, GitHub Actions, Linux, and AI-assisted workflows |
-| Technical learning | Structured diploma lessons, quizzes, study resources, and engineering utilities |
+| Escalator electrical systems | Real-time monitoring applications |
+| Control circuits and panel documentation | Modbus RTU and RS485 communication |
+| Schematics and wiring diagrams | Python and JavaScript utilities |
+| BOM preparation and revision control | Web and Android applications |
+| Testing, troubleshooting, and production support | CI/CD and workflow automation |
 
-## Featured projects
+## 🚀 Featured work
 
-### [POLY PMNA — Diploma learning platform](https://github.com/nandurpm/diploma-notes)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nandurpm/REAL-TIME-MONITORING">JEH Escalator Real-Time Monitor</a></h3>
+<p>A Windows desktop dashboard that reads a JEH V3 controller over Modbus RTU/RS485 and turns live registers into operator-friendly status, fault, CBM, and running-log views.</p>
+<p><code>Electron</code> <code>Node.js</code> <code>Modbus RTU</code> <code>RS485</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nandurpm/Serial_Communication">Serial Communication Monitor</a></h3>
+<p>A cross-platform desktop, CLI, and local REST toolkit for Modbus devices, with live reads, register writes, frame validation, exports, statistics, and history.</p>
+<p><code>Python</code> <code>Tkinter</code> <code>PySerial</code> <code>SQLite</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nandurpm/diploma-notes">POLY PMNA</a></h3>
+<p>A digital learning platform for Kerala Polytechnic students with structured lessons, revision resources, quizzes, engineering tools, and Ask Poly AI.</p>
+<p><code>JavaScript</code> <code>Cloudflare</code> <code>Supabase</code> <code>OpenAI</code></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/nandurpm/portfolio">Engineering Portfolio</a></h3>
+<p>A responsive portfolio and publishing system for engineering projects, technical writing, and professional experience, with automated content validation and deployment.</p>
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>GitHub Actions</code></p>
+</td>
+</tr>
+</table>
 
-A student-focused learning platform for Kerala Diploma learners. It organizes syllabus information, lessons, revision material, quizzes, study resources, and engineering support tools in one place.
+<div align="center">
 
-**Focus:** structured learning · revision resources · mobile-friendly web experience · educational tooling
+[Explore all repositories →](https://github.com/nandurpm?tab=repositories)
 
-### [Personal engineering portfolio](https://github.com/nandurpm/portfolio)
+</div>
 
-A static portfolio website for presenting engineering experience, projects, articles, downloadable material, and professional contact information. It includes an automated workflow for publishing blog posts and project pages.
+## 🧰 Toolbox
 
-**Focus:** static web development · content publishing · responsive UI · documentation
+<p align="center">
+<img src="https://img.shields.io/badge/Electrical-Design-0e7490?style=flat-square" alt="Electrical Design">
+<img src="https://img.shields.io/badge/Control-Circuits-155e75?style=flat-square" alt="Control Circuits">
+<img src="https://img.shields.io/badge/Modbus-RTU-0891b2?style=flat-square" alt="Modbus RTU">
+<img src="https://img.shields.io/badge/RS485-Communication-06b6d4?style=flat-square" alt="RS485">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux">
+</p>
 
-### Ask Poly AI
+## 🎯 Current direction
 
-An educational assistant concept for helping diploma students find syllabus-aware explanations, lesson guidance, engineering formulas, and revision support. The project is presented through the POLY PMNA ecosystem.
+- Building reliable monitoring and diagnostic tools for industrial systems
+- Improving engineering-document quality and revision workflows
+- Expanding POLY PMNA with structured learning resources and AI-assisted tools
+- Developing deeper skills in PLCs, SCADA, industrial automation, and control systems
 
-**Focus:** educational AI · knowledge organization · engineering explanations
+## 🎓 Background
 
-### BOM validation and engineering utilities
+**Diploma in Electronics Engineering** — Government Polytechnic College, Perinthalmanna
 
-A collection of practical tools and workflows for reducing repetitive engineering checks, improving documentation quality, and making technical information easier to review.
-
-**Focus:** validation · reporting · document quality · workflow automation
-
-## Engineering experience
-
-### Johnson Lifts & Escalators — Electrical Design & Development Engineer
-
-**July 2025 – Present**
-
-I prepare and maintain electrical schematics, wiring diagrams, control-circuit documentation, BOMs, and engineering revisions for escalator systems. I also support production, testing, troubleshooting, cross-functional coordination, and documentation improvement.
-
-### Previous experience
-
-My earlier experience includes quality and assembly operations in automotive manufacturing, CNC machine operation and dimensional inspection, and video editing. These roles strengthened my attention to detail, process discipline, visual communication, and practical problem solving.
-
-## Selected capabilities
-
-- Electrical schematic and wiring-diagram preparation
-- Escalator electrical systems and control circuits
-- BOM preparation, checking, and document control
-- Engineering change and revision management
-- Production support, testing, troubleshooting, and root-cause analysis
-- HTML, CSS, JavaScript, Git, GitHub Actions, and Linux
-- Technical writing, learning-platform development, and workflow automation
-
-## Current focus
-
-1. Improving electrical documentation quality and revision workflows.
-2. Expanding POLY PMNA learning resources and revision content.
-3. Building practical engineering utilities and AI-assisted learning tools.
-4. Learning more about PLC programming, industrial automation, SCADA, control systems, and web performance.
-
-## Selected metrics
-
-These figures are approximate personal-work indicators and should be updated as the work grows.
-
-| Indicator | Approximate scale |
-| --- | ---: |
-| Electrical schematics and drawings handled | 500+ |
-| Technical documents maintained or developed | 1,000+ |
-| Engineering revisions supported | 300+ |
-| Escalator projects supported | 20+ |
-| Diploma lessons and learning resources developed | 100+ |
-
-## Education
-
-| Qualification | Institution | Year or result |
-| --- | --- | --- |
-| Diploma in Electronics Engineering | Government Polytechnic College, Perinthalmanna | Completed |
-| Higher Secondary | Government HSS Kadungapuram | 2016 · 79% |
-| SSLC | Government HSS Kadungapuram | 2014 · 95% |
-
-## Engineering principles
-
-> **Every electrical schematic represents a real system. Precision in design today helps prevent failures tomorrow.**
-
-I value accuracy, maintainability, traceable decisions, clear documentation, continuous learning, and solutions that work reliably in practical environments.
-
-## Contact
-
-- **Portfolio:** [nandakumarm.dpdns.org](https://nandakumarm.dpdns.org)
-- **GitHub:** [github.com/nandurpm](https://github.com/nandurpm)
-- **Email:** [nandakumarkdpm@gmail.com](mailto:nandakumarkdpm@gmail.com)
+My earlier work across automotive quality and assembly, CNC operation, dimensional inspection, and video editing shaped the way I approach engineering today: with precision, process discipline, practical problem-solving, and clear visual communication.
 
 ---
 
-## Repository maintenance
+<div align="center">
 
-This is the special `nandurpm/nandurpm` profile repository: GitHub renders this root `README.md` on the `nandurpm` account page. It contains profile content and presentation assets only; implementation code is maintained in separate repositories.
+### Let's build something useful
 
-### Structure
+I'm interested in electrical engineering, industrial monitoring, technical education, and practical automation.
 
-| Path | Responsibility |
-| --- | --- |
-| `README.md` | Public profile content rendered by GitHub |
-| `assets/` | Versioned visual assets referenced by the profile README |
-| `.gitignore` | Local secret, editor, operating-system, and temporary-file exclusions |
+[![Open Portfolio](https://img.shields.io/badge/Open_my_portfolio-0e7490?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nandakumarm.dpdns.org)
+[![Send Email](https://img.shields.io/badge/Send_an_email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandakumarkdpm@gmail.com)
 
-### Related implementation repositories
+<br>
 
-- [Portfolio website](https://github.com/nandurpm/portfolio)
-- [POLY PMNA / Diploma Notes](https://github.com/nandurpm/diploma-notes)
-- [POLY PMNA PDF archive](https://github.com/nandurpm/poly-pmna-pdf-files)
+<sub>“Precision in design today helps prevent failures tomorrow.”</sub>
 
-### Update rules
-
-- Keep project descriptions and links aligned with their implementation repositories.
-- Update time-sensitive employment, education, focus, and metric statements when their source facts change.
-- Preview the README on GitHub after changing HTML alignment, tables, links, or the hero asset.
-- Do not commit credentials, private work information, access tokens, customer data, or generated secrets.
+</div>
