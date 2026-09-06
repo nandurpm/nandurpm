@@ -46,18 +46,6 @@ My professional work is centred on escalator electrical systems, control circuit
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/nandurpm/REAL-TIME-MONITORING">JEH Escalator Real-Time Monitor</a></h3>
-<p>A Windows desktop dashboard that reads a JEH V3 controller over Modbus RTU/RS485 and turns live registers into operator-friendly status, fault, CBM, and running-log views.</p>
-<p><code>Electron</code> <code>Node.js</code> <code>Modbus RTU</code> <code>RS485</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/nandurpm/Serial_Communication">Serial Communication Monitor</a></h3>
-<p>A cross-platform desktop, CLI, and local REST toolkit for Modbus devices, with live reads, register writes, frame validation, exports, statistics, and history.</p>
-<p><code>Python</code> <code>Tkinter</code> <code>PySerial</code> <code>SQLite</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <h3><a href="https://github.com/nandurpm/diploma-notes">POLY PMNA</a></h3>
 <p>A digital learning platform for Kerala Polytechnic students with structured lessons, revision resources, quizzes, engineering tools, and Ask Poly AI.</p>
 <p><code>JavaScript</code> <code>Cloudflare</code> <code>Supabase</code> <code>OpenAI</code></p>
